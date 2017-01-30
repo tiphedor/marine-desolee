@@ -1,0 +1,22 @@
+{
+  "name": "marine-desole",
+  "version": "1.0.0",
+  "description": "Desolé.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiphedor/marine-desolee.git"
+  },
+  "author": "Martin STEFFEN <mail@tiph.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiphedor/marine-desolee/issues"
+  },
+  "homepage": "https://github.com/tiphedor/marine-desolee#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
